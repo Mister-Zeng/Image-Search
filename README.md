@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Demo Video
+![](https://github.com/Mister-Zeng/React-App-Image-Search/blob/main/Demo.gif?raw=true)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
