@@ -1,9 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ### Demo Video
-![](https://github.com/Mister-Zeng/React-App-Image-Search/blob/main/Demo.gif?raw=true)
+![](https://github.com/Mister-Zeng/Image-Search/blob/main/Demo.gif?raw=true)
 
 
 
